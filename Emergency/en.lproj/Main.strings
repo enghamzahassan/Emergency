@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "98U-Bc-qb2"; */
+"98U-Bc-qb2.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Emergency services"; ObjectID = "FFN-hc-nWI"; */
+"FFN-hc-nWI.normalTitle" = "Emergency services";
+
+/* Class = "UIButton"; normalTitle = "NEWS"; ObjectID = "G9i-nd-2lN"; */
+"G9i-nd-2lN.normalTitle" = "NEWS";
+
+/* Class = "UIButton"; normalTitle = "Forget your password?"; ObjectID = "KAW-Gg-QyX"; */
+"KAW-Gg-QyX.normalTitle" = "Forget your password?";
+
+/* Class = "UINavigationItem"; title = "Emergancy Servise"; ObjectID = "M9c-ka-KpU"; */
+"M9c-ka-KpU.title" = "Emergancy Servise";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "df5-wC-Yh7"; */
+"df5-wC-Yh7.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "fPC-nt-abf"; */
+"fPC-nt-abf.placeholder" = "Password";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "iuQ-7C-0Sz"; */
+"iuQ-7C-0Sz.title" = "Back";
+
+/* Class = "UILabel"; text = "Palestine, Gaza"; ObjectID = "nfu-ic-93b"; */
+"nfu-ic-93b.text" = "Palestine, Gaza";
+
+/* Class = "UIButton"; normalTitle = "CREATE NEW ACCOUNT"; ObjectID = "sBZ-be-odk"; */
+"sBZ-be-odk.normalTitle" = "CREATE NEW ACCOUNT";
+
+/* Class = "UILabel"; text = "Hamza Abu Jayyab"; ObjectID = "z6l-vb-B5I"; */
+"z6l-vb-B5I.text" = "Hamza Abu Jayyab";
